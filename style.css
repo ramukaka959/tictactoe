@@ -58,7 +58,7 @@ table tr:last-child td{
     background-color: rgba(205,133,63,0.8);
     position: absolute;
     left: 50%;
-    margin-left: -20px;
+    margin-left: -20%px;
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;

@@ -19,9 +19,9 @@ h1{
     color: coral;
     position: absolute;
     text-align: center;
-    padding-left: 180px;
+    padding-left: 20%;
     text-shadow: black;
-    left: 40%;
+    
     text-decoration: underline;
     
 }
@@ -30,7 +30,7 @@ table{
     border-collapse: collapse;
     position: absolute;
     left: 50%;
-    margin-left: -205px;
+    margin-left: -190px;
     margin-top: 50px;
     top: 50px;
     
